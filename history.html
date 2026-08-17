@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>历史脉络 — Gene Atlas: Morin Khuur</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=Noto+Sans+SC:wght@300;400;500;700&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="history-style.css">
+</head>
+<body>
+
+    <div class="grid-overlay"></div>
+
+    <!-- Top Bar -->
+    <nav class="top-bar">
+        <div class="top-bar-logo">Gene Atlas.</div>
+        <a href="index.html#history" class="top-bar-back">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+            返回总览
+        </a>
+    </nav>
+
+    <!-- Page -->
+    <div class="page">
+
+        <!-- Header -->
+        <div class="page-header">
+            <div class="label">Historical Lineage</div>
+            <h1>历史脉络</h1>
+            <div class="subtitle">The Evolution of Morin Khuur</div>
+            <p class="intro">
+                马头琴的起源可追溯至唐宋时期的拉弦乐器奚琴，最初以龙首为饰，后逐渐演化为马头形象。从宫廷雅乐到草原牧歌，从区域流派到国家级非遗，这把琴承载了蒙古族两千年的文化记忆。以下分三个阶段，追溯它的前世今生。
+            </p>
+        </div>
+
+        <!-- Main Layout: Left narrative + Right chart -->
+        <div class="main-layout">
+
+            <!-- Left: Narrative -->
+            <div class="narrative-col">
+
+                <!-- Progress Bar -->
+                <div class="progress-bar">
+                    <div class="progress-line"><div class="progress-line-fill" id="progressFill"></div></div>
+                    <div class="progress-step active" data-step="0" onclick="goToAct(0)">
+                        <div class="dot"></div>
+                        <div class="step-label">起源</div>
+                        <div class="step-era">唐宋以前</div>
+                    </div>
+                    <div class="progress-step" data-step="1" onclick="goToAct(1)">
+                        <div class="dot"></div>
+                        <div class="step-label">演变</div>
+                        <div class="step-era">元 → 清</div>
+                    </div>
+                    <div class="progress-step" data-step="2" onclick="goToAct(2)">
+                        <div class="dot"></div>
+                        <div class="step-label">定型</div>
+                        <div class="step-era">清末至今</div>
+                    </div>
+                </div>
+
+                <!-- Acts -->
+                <div class="act-container">
+
+                    <!-- Act 1 -->
+                    <div class="act visible" data-act="0">
+                        <div class="act-number">01</div>
+                        <div class="act-title">起源</div>
+                        <div class="act-title-en">Origins — Tang & Song Dynasties</div>
+                        <div class="act-body">
+                            马头琴的前身可追溯至唐宋时期的拉弦乐器奚琴。奚琴最早见于唐代文献，以竹片轧弦发声，是北方游牧民族与中原文化交流的产物。据《元史》记载，早期的马头琴类乐器琴首装饰为龙首，这与中原宫廷乐器的传统一脉相承。
+                        </div>
+                        <div class="act-body-en">
+                            The predecessor of the Morin Khuur can be traced to the xiqin, a bowed string instrument of the Tang and Song dynasties. Early versions featured a dragon-head decoration, reflecting Central Plains court traditions.
+                        </div>
+                        <div class="key-moment">
+                            <div class="km-label">关键转折</div>
+                            <div class="km-text">奚琴从弹拨向拉弦的转变，奠定了马头琴"以弓擦弦"的基本发声原理。这一变化使音色从短促清脆变为绵长深沉，更适合表现草原的辽阔意境。</div>
+                        </div>
+                        <div class="branches">
+                            <button class="branch-toggle" onclick="toggleBranch(this)">
+                                <span class="arrow">▶</span> 同时期其他乐器
+                            </button>
+                            <div class="branch-list">
+                                <div class="branch-item">
+                                    <span class="bi-name">托布秀尔</span>
+                                    <span class="bi-era">弹拨乐器</span>
+                                    <div class="bi-desc">蒙古族传统弹拨乐器，两弦，音箱呈方形，常用于伴奏说唱艺术。</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Act 2 -->
+                    <div class="act" data-act="1">
+                        <div class="act-number">02</div>
+                        <div class="act-title">演变</div>
+                        <div class="act-title-en">Transformation — Yuan to Qing</div>
+                        <div class="act-body">
+                            元代时，马头琴的前身"火不思"已经出现，这是一种四弦弹拨乐器，流行于蒙古宫廷。至明清时期，拉弦乐器"潮尔"在蒙古草原广泛流传，琴首装饰逐渐从龙首演变为马头——这一变化反映了蒙古族对马的深厚感情从宫廷符号转向草原信仰。
+                        </div>
+                        <div class="act-body-en">
+                            By the Yuan dynasty, the "huobusi" had emerged. During the Ming-Qing period, the bowed "chaor" spread across the grasslands, and the dragon-head decoration gradually transformed into a horse head.
+                        </div>
+                        <div class="key-moment">
+                            <div class="km-label">关键转折</div>
+                            <div class="km-text">龙首变马头——这不是简单的装饰替换，而是文化认同的转变。龙是中原皇权的象征，马是蒙古族生命的一部分。琴首的更迭，标志着这件乐器从"宫廷礼器"走向"草原之魂"。</div>
+                        </div>
+                        <div class="branches">
+                            <button class="branch-toggle" onclick="toggleBranch(this)">
+                                <span class="arrow">▶</span> 元明清时期相关乐器
+                            </button>
+                            <div class="branch-list">
+                                <div class="branch-item">
+                                    <span class="bi-name">火不思</span>
+                                    <span class="bi-era">元代 · 弹拨</span>
+                                    <div class="bi-desc">四弦弹拨乐器，梨形音箱，流行于元代蒙古宫廷。后传入中原，清代被收入宫廷乐器编制。</div>
+                                </div>
+                                <div class="branch-item">
+                                    <span class="bi-name">潮尔</span>
+                                    <span class="bi-era">明清 · 拉弦</span>
+                                    <div class="bi-desc">双弦拉弦乐器，是马头琴最直接的前身。"潮尔"也是马头琴在清代的名称。</div>
+                                </div>
+                                <div class="branch-item">
+                                    <span class="bi-name">胡琴</span>
+                                    <span class="bi-era">唐宋 · 拉弦</span>
+                                    <div class="bi-desc">北方游牧民族的拉弦乐器泛称，与奚琴并行发展。</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Act 3 -->
+                    <div class="act" data-act="2">
+                        <div class="act-number">03</div>
+                        <div class="act-title">定型</div>
+                        <div class="act-title-en">Standardization — Late Qing to Present</div>
+                        <div class="act-body">
+                            清末至民国时期，马头琴的形制逐渐固定。色拉西（1887—1968）将民间散落的演奏技法加以整理，培养了巴拉干、桑都仍等弟子，奠定了现代马头琴艺术的基础。1949年后，马头琴经历了从两弦到四弦的技术革新。2006年被列入首批国家级非物质文化遗产名录。
+                        </div>
+                        <div class="act-body-en">
+                            From the late Qing to the Republic, the form gradually stabilized. Serashi organized scattered folk techniques. In 2006, it was inscribed on China's first National Intangible Cultural Heritage list.
+                        </div>
+                        <div class="key-moment">
+                            <div class="km-label">里程碑</div>
+                            <div class="km-text">2006年列入首批国家级非遗名录。2008年北京奥运会开幕式演奏。2009年入选联合国教科文组织"人类非物质文化遗产代表作名录"。</div>
+                        </div>
+                        <div class="branches">
+                            <button class="branch-toggle" onclick="toggleBranch(this)">
+                                <span class="arrow">▶</span> 四大演奏流派
+                            </button>
+                            <div class="branch-list">
+                                <div class="branch-item">
+                                    <span class="bi-name">科尔沁流派</span>
+                                    <span class="bi-era">东部</span>
+                                    <div class="bi-desc">音色深沉、技法古朴，以叙事性见长，代表人物色拉西。</div>
+                                </div>
+                                <div class="branch-item">
+                                    <span class="bi-name">锡林郭勒流派</span>
+                                    <span class="bi-era">中部</span>
+                                    <div class="bi-desc">音色宽广、旋律舒展，擅长表现草原的辽阔意境。</div>
+                                </div>
+                                <div class="branch-item">
+                                    <span class="bi-name">鄂尔多斯流派</span>
+                                    <span class="bi-era">西部</span>
+                                    <div class="bi-desc">节奏明快、技巧华丽，代表人物齐·宝力高。</div>
+                                </div>
+                                <div class="branch-item">
+                                    <span class="bi-name">呼伦贝尔流派</span>
+                                    <span class="bi-era">北部</span>
+                                    <div class="bi-desc">音色柔美、抒情细腻，受到布里亚特蒙古音乐影响。</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <!-- Nav -->
+                <div class="act-nav">
+                    <button class="act-nav-btn" id="prevBtn" onclick="prevAct()" disabled>
+                        <span class="btn-arrow">←</span> 上一幕
+                    </button>
+                    <span class="act-nav-center" id="actCounter">1 / 3</span>
+                    <button class="act-nav-btn" id="nextBtn" onclick="nextAct()">
+                        下一幕 <span class="btn-arrow">→</span>
+                    </button>
+                </div>
+
+            </div>
+
+            <!-- Right: Evolution Chart -->
+            <div class="chart-col">
+                <div class="chart-wrapper">
+                    <div class="history-ppt-wrap">
+                        <div class="history-ppt-title">PPT Archive / 历史页面融合展示</div>
+                        <div class="history-ppt-grid">
+                            <figure class="history-ppt-card">
+                                <img src="assets/history/history-ppt-1.png" alt="历史页面 PPT 第一页">
+                                <figcaption>唐宋起源 · 元蒙演变</figcaption>
+                            </figure>
+                            <figure class="history-ppt-card">
+                                <img src="assets/history/history-ppt-2.png" alt="历史页面 PPT 第二页">
+                                <figcaption>清代定型 · 演奏与泛音</figcaption>
+                            </figure>
+                        </div>
+                        <div class="history-ppt-note">融合 PPT 的历史页面内容，保留历史脉络信息的同时，用双图并列展示替换原右侧演化图。</div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- Footer -->
+        <div class="page-footer">
+            <span>Gene Atlas: Morin Khuur — 历史脉络</span>
+            <span>Data sourced from 《元史》《清史稿》及中国非物质文化遗产网</span>
+        </div>
+
+    </div>
+
+    <script src="history-page.js"></script>
+
+</body>
+</html>
