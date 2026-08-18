@@ -1,0 +1,338 @@
+{
+  "schema_version": 1,
+  "project": {
+    "repository": "jingcai-ctrl/Morinkhuur",
+    "default_branch": "main",
+    "goal": "在不破坏现有一页式数字展览的前提下，逐步建设学术型马头琴文化资源数据库",
+    "source": "用户于2026-08-18提供的ChatGPT整改意见"
+  },
+  "workflow": {
+    "strategy": "先规范数据，再改造页面，最后扩充功能",
+    "one_step_per_run": true,
+    "verify_before_complete": true,
+    "update_progress_after_verification": true,
+    "preserve_existing_exhibition": true,
+    "do_not_infer_missing_information": [
+      "年代",
+      "资料来源",
+      "版权",
+      "传统蒙古文",
+      "西里尔蒙古文"
+    ],
+    "missing_information_policy": "保留空值或明确标记为待补充、待核实、版权待确认",
+    "current_step": 1
+  },
+  "skill_lookup": {
+    "name": "morinkhuur-database-roadmap",
+    "status": "not_found",
+    "checked_locations": [
+      "本地Codex技能目录",
+      "公开GitHub代码搜索",
+      "公开网页搜索"
+    ],
+    "checked_on": "2026-08-18"
+  },
+  "initial_scope": {
+    "included_resource_types": [
+      "器物",
+      "部件",
+      "制作技艺",
+      "制作材料与工具",
+      "传承人物",
+      "音乐与曲目",
+      "装饰纹样",
+      "历史事件",
+      "文化场景"
+    ],
+    "deferred_features": [
+      "用户注册",
+      "公众上传",
+      "在线评论",
+      "复杂权限管理",
+      "大规模视频存储",
+      "人工智能问答",
+      "商业交易功能"
+    ]
+  },
+  "roadmap": [
+    {
+      "id": 1,
+      "title": "备份网站和建立工作版本",
+      "status": "pending",
+      "modifies_code": "少量",
+      "objective": "保护现有成果并建立可恢复、可继续整改的版本基础",
+      "tasks": [
+        "保留当前网站作为原始展示版",
+        "在GitHub建立备份分支",
+        "为当前稳定版本设置版本标记",
+        "建立数据库改造工作版本",
+        "确认当前网站所有页面、图片、音频和主要交互均能正常打开"
+      ],
+      "deliverables": [
+        "原始网站备份",
+        "数据库改造工作版本",
+        "网站文件检查清单"
+      ],
+      "verification": [
+        "备份分支指向整改前稳定提交",
+        "稳定版本标签可解析到整改前稳定提交",
+        "工作版本与原始展示版相互独立",
+        "线上主页面和历史页面可访问",
+        "关键媒体与交互检查结果已记录"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "确定首期收录范围",
+      "status": "pending",
+      "modifies_code": "否",
+      "objective": "明确首期收录边界，防止范围无限扩大",
+      "tasks": [
+        "确认九类首期资源",
+        "确认暂缓建设的功能",
+        "制定数据库一级、二级分类目录"
+      ],
+      "deliverables": [
+        "数据库首期收录范围表",
+        "数据库一级、二级分类目录"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "确定栏目与页面结构",
+      "status": "pending",
+      "modifies_code": "否",
+      "objective": "将一页式展览规划为首页、资源库、专题展示和关于数据库四个板块",
+      "requirements": {
+        "首页": ["数据库简介", "数据概览", "精选资源", "专题入口"],
+        "资源库": ["器物", "技艺", "人物", "音乐", "纹样", "历史", "文化场景"],
+        "专题展示": ["马头琴历史脉络", "马头琴结构与器型", "马头琴制作工艺", "传承人物谱系", "马头琴文化生态"],
+        "关于数据库": ["建设说明", "资料来源", "著录规范", "版权说明", "联系方式"]
+      },
+      "constraints": ["现有长页面不删除，后续作为马头琴文化数字展览专题保留"],
+      "deliverables": ["网站栏目结构图", "导航菜单方案", "页面层级关系"]
+    },
+    {
+      "id": 4,
+      "title": "制定数据库字段表",
+      "status": "pending",
+      "modifies_code": "否",
+      "objective": "规定公共字段、专属字段、必填字段和选填字段",
+      "common_fields": [
+        "唯一编号",
+        "中文名称",
+        "蒙古文名称",
+        "英文名称",
+        "资源类型",
+        "年代",
+        "地区",
+        "关键词",
+        "内容简介",
+        "资料来源",
+        "版权状态",
+        "审核状态",
+        "创建日期",
+        "更新日期"
+      ],
+      "type_specific_examples": {
+        "器物": ["材料", "尺寸", "收藏机构"],
+        "人物": ["出生年代", "身份", "传承关系"],
+        "技艺": ["工具", "材料", "操作步骤"]
+      },
+      "deliverables": ["马头琴数据库字段表", "各类资源著录模板", "必填字段与选填字段说明"]
+    },
+    {
+      "id": 5,
+      "title": "制定编号和文件命名规则",
+      "status": "pending",
+      "modifies_code": "否",
+      "objective": "为资源、图片、音频、视频和文献建立唯一且稳定的身份",
+      "resource_codes": {
+        "器物": "MK-I",
+        "部件": "MK-CP",
+        "技艺": "MK-C",
+        "人物": "MK-P",
+        "音乐": "MK-M",
+        "纹样": "MK-PT",
+        "场景": "MK-S",
+        "历史事件": "MK-H",
+        "参考文献": "MK-R",
+        "数字媒体": "MK-D"
+      },
+      "media_naming_example": ["MK-I-001-01.jpg", "MK-C-001-01.jpg"],
+      "deliverables": ["数据库编号规则", "图片、音频和视频命名规则"]
+    },
+    {
+      "id": 6,
+      "title": "制定来源、版权和审核规范",
+      "status": "pending",
+      "modifies_code": "否",
+      "objective": "统一来源著录、版权状态、公开范围、审核流程和资料可信度",
+      "source_fields": [
+        "来源类型",
+        "原始出处",
+        "作者或拍摄者",
+        "采集时间",
+        "采集地点",
+        "提供者",
+        "收藏机构",
+        "使用许可",
+        "公开范围",
+        "推荐引用方式"
+      ],
+      "copyright_statuses": ["自有资料", "已获授权", "公共领域", "合理引用", "仅供研究", "版权待确认", "禁止公开"],
+      "review_statuses": ["待整理", "已著录", "待核实", "专家确认", "公开发布"],
+      "credibility_levels": {
+        "一级": "国家级名录、档案、正式出版文献",
+        "二级": "博物馆、文化机构、专业研究成果",
+        "三级": "田野调查、正式访谈、传承人口述",
+        "四级": "新闻媒体和公开网络资料",
+        "五级": "来源待核实"
+      },
+      "deliverables": ["资料来源登记表", "数字资源版权状态表", "网站版权声明", "数据库内容审核规范", "资料可信度分级表"]
+    },
+    {
+      "id": 7,
+      "title": "盘点现有内容",
+      "status": "pending",
+      "modifies_code": "否",
+      "objective": "逐条盘点网页已有资源、缺失信息、来源不明资料和版权待确认媒体",
+      "inventory_categories": ["器物", "人物", "制作工序", "纹样", "曲目", "历史事件", "文化场景"],
+      "constraints": ["本步骤只盘点，不急于补齐资料，不推测缺失信息"],
+      "deliverables": ["现有网站资源总表", "缺失信息清单", "待核实内容清单"]
+    },
+    {
+      "id": 8,
+      "title": "清理和重新组织网站文件",
+      "status": "pending",
+      "modifies_code": "是",
+      "objective": "清理重复、备份、未使用及命名不统一文件，分离原始资源与网页资源",
+      "inspection_scope": ["SVG版本", ".bak文件", "重复CSS", "重复JavaScript", "未使用图片", "FBX和GLB版本", "混用文件名", "原始文件与压缩文件"],
+      "target_directories": [
+        "assets/images/instruments",
+        "assets/images/crafts",
+        "assets/images/people",
+        "assets/images/patterns",
+        "assets/images/history",
+        "assets/images/scenes",
+        "assets/audio",
+        "assets/video",
+        "assets/models",
+        "assets/documents"
+      ],
+      "deliverables": ["清理后的文件目录", "删除或归档文件清单", "媒体文件对应记录表"]
+    },
+    {
+      "id": 9,
+      "title": "将现有内容转换为JSON",
+      "status": "pending",
+      "modifies_code": "是",
+      "objective": "把HTML中的文字和媒体关系转换为独立结构化记录",
+      "target_files": [
+        "data/instruments.json",
+        "data/components.json",
+        "data/crafts.json",
+        "data/people.json",
+        "data/music.json",
+        "data/patterns.json",
+        "data/history.json",
+        "data/scenes.json",
+        "data/references.json",
+        "data/media.json"
+      ],
+      "rules": [
+        "一件器物、一位人物、一道工序或一首曲目分别对应一条记录",
+        "图片通过编号与资源记录关联",
+        "文献通过文献编号与资源记录关联",
+        "缺失信息保留空值，不随意推测"
+      ],
+      "deliverables": ["第一批JSON数据", "数据格式检查结果", "原网页内容与数据记录对应表"]
+    },
+    {
+      "id": 10,
+      "title": "建立数据库总览页",
+      "status": "pending",
+      "modifies_code": "是",
+      "objective": "让用户浏览全部资源，而不仅是滚动观看展览",
+      "features": ["总记录数", "分类数量", "分类入口", "关键词搜索", "卡片列表", "最新收录", "精选资源"],
+      "deliverables": ["database.html或database/index.html"]
+    },
+    {
+      "id": 11,
+      "title": "建立分类浏览与筛选",
+      "status": "pending",
+      "modifies_code": "是",
+      "objective": "建设器物、技艺、人物、音乐、纹样、历史和文化场景分类页面",
+      "instrument_filter_examples": ["年代", "地区", "琴箱形制", "面板材料", "琴首类型", "收藏机构", "资料完整度"],
+      "deliverables": ["分类浏览页面", "筛选功能", "数据排序功能"]
+    },
+    {
+      "id": 12,
+      "title": "建立记录详情页",
+      "status": "pending",
+      "modifies_code": "是",
+      "objective": "为每条记录提供独立页面和稳定网址",
+      "url_example": "record.html?id=MK-I-001",
+      "fields": ["基础信息", "图片", "内容说明", "相关器物", "相关人物", "相关技艺", "相关场景", "资料来源", "版权状态", "更新时间", "推荐引用格式"],
+      "deliverables": ["通用详情页模板", "不同资源类型的详情字段", "独立记录链接"]
+    },
+    {
+      "id": 13,
+      "title": "建立搜索功能",
+      "status": "pending",
+      "modifies_code": "是",
+      "objective": "先实现基础检索，再逐步增强组合与多语言检索",
+      "initial_features": ["按名称搜索", "按关键词搜索", "按类型筛选", "按地区筛选", "按年代筛选", "按资料状态筛选"],
+      "later_features": ["多条件组合检索", "全文搜索", "模糊匹配", "蒙古文检索", "同义词检索"],
+      "deliverables": ["搜索框", "筛选面板", "搜索结果页面", "无结果提示"]
+    },
+    {
+      "id": 14,
+      "title": "建立资源关联关系",
+      "status": "pending",
+      "modifies_code": "是",
+      "objective": "从资料目录发展为器物、技艺、人物、地区、场景和文献之间的文化知识网络",
+      "deliverables": ["关联字段", "相关资源推荐", "初步关系图谱"]
+    },
+    {
+      "id": 15,
+      "title": "完善引用、多语言和下载",
+      "status": "pending",
+      "modifies_code": "是",
+      "objective": "完善学术引用、多语言字段与数据开放服务",
+      "citation_requirements": ["资料来源", "参考文献", "图片出处", "推荐引用格式", "访问日期", "稳定记录编号", "数据库版本号"],
+      "language_sequence": ["完善中文", "增加英文名称和摘要", "增加传统蒙古文或西里尔蒙古文", "建设多语言界面"],
+      "download_options": ["CSV", "JSON"],
+      "access_levels": ["完全开放", "仅展示", "申请使用", "研究者可访问", "暂不公开"],
+      "deliverables": ["引用格式模板", "参考文献页面", "多语言字段", "语言切换", "多语言术语对照表", "数据开放说明", "下载页面", "数据使用协议"]
+    },
+    {
+      "id": 16,
+      "title": "综合测试并重新发布",
+      "status": "pending",
+      "modifies_code": "是",
+      "objective": "完成移动端、无障碍、性能、媒体和发布验证",
+      "checks": ["手机端菜单", "字体大小", "图片加载", "音频控制", "键盘操作", "图片替代文字", "色彩对比", "三维模型加载", "动画阅读影响", "慢速网络可用性"],
+      "deliverables": ["手机端适配版", "图片压缩版", "无障碍说明", "性能检查结果", "重新发布验证记录"]
+    }
+  ],
+  "future_platform_review": {
+    "status": "deferred",
+    "trigger_conditions": [
+      "数据记录约超过500至1000条",
+      "需要多人共同录入或在线审核",
+      "需要不同管理权限或用户上传",
+      "需要大量高清音视频存储",
+      "需要频繁更新、复杂统计或API接口"
+    ],
+    "possible_options": ["专业文化遗产数据库", "内容管理系统", "云数据库", "对象存储", "独立服务器"],
+    "decision": "现阶段继续使用GitHub Pages与静态JSON，不立即建设后台数据库"
+  },
+  "history": [
+    {
+      "date": "2026-08-18",
+      "action": "created_progress_record",
+      "note": "依据用户提供的整改意见建立路线记录；尚未执行第1步，全部步骤保持pending。"
+    }
+  ]
+}
