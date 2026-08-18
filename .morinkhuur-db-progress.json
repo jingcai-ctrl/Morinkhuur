@@ -3,6 +3,7 @@
   "project": {
     "repository": "jingcai-ctrl/Morinkhuur",
     "default_branch": "main",
+    "working_branch": "database-rebuild",
     "goal": "在不破坏现有一页式数字展览的前提下，逐步建设学术型马头琴文化资源数据库",
     "source": "用户于2026-08-18提供的ChatGPT整改意见"
   },
@@ -20,7 +21,7 @@
       "西里尔蒙古文"
     ],
     "missing_information_policy": "保留空值或明确标记为待补充、待核实、版权待确认",
-    "current_step": 1
+    "current_step": 2
   },
   "skill_lookup": {
     "name": "morinkhuur-database-roadmap",
@@ -58,7 +59,8 @@
     {
       "id": 1,
       "title": "备份网站和建立工作版本",
-      "status": "pending",
+      "status": "completed",
+      "completed_on": "2026-08-18",
       "modifies_code": "少量",
       "objective": "保护现有成果并建立可恢复、可继续整改的版本基础",
       "tasks": [
@@ -79,7 +81,29 @@
         "工作版本与原始展示版相互独立",
         "线上主页面和历史页面可访问",
         "关键媒体与交互检查结果已记录"
-      ]
+      ],
+      "completion_record": {
+        "baseline_commit": "c8c1cbf4f08610c10da1888ef7cf994e28062d58",
+        "version_marker": {
+          "kind": "immutable_commit_and_backup_branch",
+          "name": "original-exhibition-2026-08-17",
+          "commit": "c8c1cbf4f08610c10da1888ef7cf994e28062d58"
+        },
+        "backup_branch": "archive/original-exhibition-2026-08-17",
+        "working_branch": "database-rebuild",
+        "checklist": "docs/site-integrity-checklist.md",
+        "verification_results": {
+          "backup_comparison": "identical",
+          "repository_files": 95,
+          "published_files_checked": 92,
+          "pages_accessible": "2/2",
+          "images_accessible": "73/73",
+          "audio_accessible": "5/5",
+          "local_references_missing": 0,
+          "javascript_syntax": "7/7 passed",
+          "interaction_check": "主要交互事件绑定已核对；完整多设备性能与交互测试保留到第16步"
+        }
+      }
     },
     {
       "id": 2,
@@ -333,6 +357,12 @@
       "date": "2026-08-18",
       "action": "created_progress_record",
       "note": "依据用户提供的整改意见建立路线记录；尚未执行第1步，全部步骤保持pending。"
+    },
+    {
+      "date": "2026-08-18",
+      "action": "completed_step_1",
+      "step": 1,
+      "note": "已固定原始展示版提交，建立备份分支和数据库改造工作分支，完成页面、媒体、引用及脚本检查，并生成网站完整性检查清单。"
     }
   ]
 }
