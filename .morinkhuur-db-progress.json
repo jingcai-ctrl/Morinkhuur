@@ -21,7 +21,7 @@
       "西里尔蒙古文"
     ],
     "missing_information_policy": "保留空值或明确标记为待补充、待核实、版权待确认",
-    "current_step": 3
+    "current_step": 4
   },
   "skill_lookup": {
     "name": "morinkhuur-database-roadmap",
@@ -140,7 +140,8 @@
     {
       "id": 3,
       "title": "确定栏目与页面结构",
-      "status": "pending",
+      "status": "completed",
+      "completed_on": "2026-08-18",
       "modifies_code": "否",
       "objective": "将一页式展览规划为首页、资源库、专题展示和关于数据库四个板块",
       "requirements": {
@@ -150,7 +151,25 @@
         "关于数据库": ["建设说明", "资料来源", "著录规范", "版权说明", "联系方式"]
       },
       "constraints": ["现有长页面不删除，后续作为马头琴文化数字展览专题保留"],
-      "deliverables": ["网站栏目结构图", "导航菜单方案", "页面层级关系"]
+      "deliverables": ["网站栏目结构图", "导航菜单方案", "页面层级关系"],
+      "completion_record": {
+        "branch": "database-rebuild",
+        "document": "docs/information-architecture.md",
+        "document_commit": "73a598329577afd79e522cef6d4de21278711a52",
+        "verification_results": {
+          "primary_sections_defined": 4,
+          "resource_browse_groups": 7,
+          "data_resource_types_preserved": 9,
+          "planned_paths_documented": 25,
+          "existing_section_anchors_mapped": "11/11",
+          "desktop_navigation_defined": true,
+          "mobile_navigation_defined": true,
+          "breadcrumbs_and_auxiliary_navigation_defined": true,
+          "transition_stages_defined": 3,
+          "existing_exhibition_files_changed": false,
+          "step_4_or_later_started": false
+        }
+      }
     },
     {
       "id": 4,
@@ -385,6 +404,12 @@
       "action": "completed_step_2",
       "step": 2,
       "note": "已完成数据库首期收录范围表与一级、二级分类目录，明确九类资源、暂缓功能、资源粒度和不推测规则；未修改现有展览文件。"
+    },
+    {
+      "date": "2026-08-18",
+      "action": "completed_step_3",
+      "step": 3,
+      "note": "已完成网站栏目结构图、导航方案、页面层级、现有内容去向和三阶段过渡策略；未创建或修改正式页面。"
     }
   ]
 }
