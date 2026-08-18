@@ -21,7 +21,7 @@
       "西里尔蒙古文"
     ],
     "missing_information_policy": "保留空值或明确标记为待补充、待核实、版权待确认",
-    "current_step": 2
+    "current_step": 3
   },
   "skill_lookup": {
     "name": "morinkhuur-database-roadmap",
@@ -108,7 +108,8 @@
     {
       "id": 2,
       "title": "确定首期收录范围",
-      "status": "pending",
+      "status": "completed",
+      "completed_on": "2026-08-18",
       "modifies_code": "否",
       "objective": "明确首期收录边界，防止范围无限扩大",
       "tasks": [
@@ -119,7 +120,22 @@
       "deliverables": [
         "数据库首期收录范围表",
         "数据库一级、二级分类目录"
-      ]
+      ],
+      "completion_record": {
+        "branch": "database-rebuild",
+        "document": "docs/database-phase-one-scope.md",
+        "document_commit": "4d441f2729173e18e4c8063b8342a51c024e2a99",
+        "verification_results": {
+          "first_level_categories": 9,
+          "all_categories_have_second_level_directory": true,
+          "deferred_features_recorded": 7,
+          "resource_granularity_defined": true,
+          "cross_category_principles_defined": true,
+          "no_inference_rules_recorded": true,
+          "numbering_deferred_to_step_5": true,
+          "existing_exhibition_files_changed": false
+        }
+      }
     },
     {
       "id": 3,
@@ -363,6 +379,12 @@
       "action": "completed_step_1",
       "step": 1,
       "note": "已固定原始展示版提交，建立备份分支和数据库改造工作分支，完成页面、媒体、引用及脚本检查，并生成网站完整性检查清单。"
+    },
+    {
+      "date": "2026-08-18",
+      "action": "completed_step_2",
+      "step": 2,
+      "note": "已完成数据库首期收录范围表与一级、二级分类目录，明确九类资源、暂缓功能、资源粒度和不推测规则；未修改现有展览文件。"
     }
   ]
 }
