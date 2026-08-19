@@ -21,7 +21,7 @@
       "西里尔蒙古文"
     ],
     "missing_information_policy": "保留空值或明确标记为待补充、待核实、版权待确认",
-    "current_step": 8
+    "current_step": 9
   },
   "skill_lookup": {
     "name": "morinkhuur-database-roadmap",
@@ -336,7 +336,8 @@
     {
       "id": 8,
       "title": "清理和重新组织网站文件",
-      "status": "pending",
+      "status": "completed",
+      "completed_on": "2026-08-19",
       "modifies_code": "是",
       "objective": "清理重复、备份、未使用及命名不统一文件，分离原始资源与网页资源",
       "inspection_scope": ["SVG版本", ".bak文件", "重复CSS", "重复JavaScript", "未使用图片", "FBX和GLB版本", "混用文件名", "原始文件与压缩文件"],
@@ -352,7 +353,33 @@
         "assets/models",
         "assets/documents"
       ],
-      "deliverables": ["清理后的文件目录", "删除或归档文件清单", "媒体文件对应记录表"]
+      "deliverables": ["清理后的文件目录", "删除或归档文件清单", "媒体文件对应记录表"],
+      "completion_record": {
+        "branch": "database-rebuild",
+        "implementation_commit": "f32f1d58ef1f2d42559bf4ff40cd57a8befc15b1",
+        "documents": [
+          "docs/file-organization-cleanup.md",
+          "docs/media-file-map.csv"
+        ],
+        "verification_results": {
+          "media_paths_mapped": 78,
+          "unique_media_targets": 76,
+          "image_paths_before": 73,
+          "image_paths_after_deduplication": 71,
+          "audio_files_preserved": 5,
+          "exact_duplicate_paths_removed": 2,
+          "inactive_css_js_files_archived": 2,
+          "empty_target_directories_reserved": 4,
+          "media_blob_sha_preserved": true,
+          "active_local_references_missing": 0,
+          "stale_active_media_paths": 0,
+          "javascript_syntax": "3/3 passed",
+          "local_http_pages": "2/2 returned 200",
+          "existing_exhibition_content_rewritten": false,
+          "facts_or_rights_inferred": false,
+          "step_9_started": false
+        }
+      }
     },
     {
       "id": 9,
@@ -507,6 +534,12 @@
       "action": "completed_step_7",
       "step": 7,
       "note": "已盘点九类候选内容、73张图片和5个音频，形成缺失信息与分级待核实清单；未补齐或推测缺失资料。"
+    },
+    {
+      "date": "2026-08-19",
+      "action": "completed_step_8",
+      "step": 8,
+      "note": "已重组现有图片与音频目录，统一英文文件名，归档未被页面加载的旧版CSS和JavaScript，移除两条内容完全相同的重复图片路径，并完成媒体映射与整站引用验证；未分配数据库编号，未进入第9步。"
     }
   ]
 }
