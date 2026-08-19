@@ -21,7 +21,7 @@
       "西里尔蒙古文"
     ],
     "missing_information_policy": "保留空值或明确标记为待补充、待核实、版权待确认",
-    "current_step": 4
+    "current_step": 8
   },
   "skill_lookup": {
     "name": "morinkhuur-database-roadmap",
@@ -174,7 +174,8 @@
     {
       "id": 4,
       "title": "制定数据库字段表",
-      "status": "pending",
+      "status": "completed",
+      "completed_on": "2026-08-19",
       "modifies_code": "否",
       "objective": "规定公共字段、专属字段、必填字段和选填字段",
       "common_fields": [
@@ -198,18 +199,35 @@
         "人物": ["出生年代", "身份", "传承关系"],
         "技艺": ["工具", "材料", "操作步骤"]
       },
-      "deliverables": ["马头琴数据库字段表", "各类资源著录模板", "必填字段与选填字段说明"]
+      "deliverables": ["马头琴数据库字段表", "各类资源著录模板", "必填字段与选填字段说明"],
+      "completion_record": {
+        "branch": "database-rebuild",
+        "document": "docs/database-fields.md",
+        "document_commit": "afee94de0490d9108f68e38a25a9713476256c3e",
+        "verification_results": {
+          "common_field_table_defined": true,
+          "resource_templates_defined": 9,
+          "source_template_defined": true,
+          "media_template_defined": true,
+          "requiredness_levels_defined": 3,
+          "json_base_template_defined": true,
+          "publication_minimum_defined": true,
+          "actual_records_created": false
+        }
+      }
     },
     {
       "id": 5,
       "title": "制定编号和文件命名规则",
-      "status": "pending",
+      "status": "completed",
+      "completed_on": "2026-08-19",
       "modifies_code": "否",
       "objective": "为资源、图片、音频、视频和文献建立唯一且稳定的身份",
       "resource_codes": {
         "器物": "MK-I",
         "部件": "MK-CP",
         "技艺": "MK-C",
+        "制作材料与工具": "MK-MT",
         "人物": "MK-P",
         "音乐": "MK-M",
         "纹样": "MK-PT",
@@ -219,12 +237,27 @@
         "数字媒体": "MK-D"
       },
       "media_naming_example": ["MK-I-001-01.jpg", "MK-C-001-01.jpg"],
-      "deliverables": ["数据库编号规则", "图片、音频和视频命名规则"]
+      "deliverables": ["数据库编号规则", "图片、音频和视频命名规则"],
+      "completion_record": {
+        "branch": "database-rebuild",
+        "document": "docs/identifier-file-naming.md",
+        "document_commit": "7ad1273b07a35d533b577412e3c668e1e53115b7",
+        "verification_results": {
+          "resource_type_codes": 9,
+          "reference_code_defined": true,
+          "digital_media_code_defined": true,
+          "identifier_lifecycle_defined": true,
+          "image_audio_video_model_document_rules_defined": true,
+          "existing_files_renamed": false,
+          "ids_preallocated": false
+        }
+      }
     },
     {
       "id": 6,
       "title": "制定来源、版权和审核规范",
-      "status": "pending",
+      "status": "completed",
+      "completed_on": "2026-08-19",
       "modifies_code": "否",
       "objective": "统一来源著录、版权状态、公开范围、审核流程和资料可信度",
       "source_fields": [
@@ -248,17 +281,57 @@
         "四级": "新闻媒体和公开网络资料",
         "五级": "来源待核实"
       },
-      "deliverables": ["资料来源登记表", "数字资源版权状态表", "网站版权声明", "数据库内容审核规范", "资料可信度分级表"]
+      "deliverables": ["资料来源登记表", "数字资源版权状态表", "网站版权声明", "数据库内容审核规范", "资料可信度分级表"],
+      "completion_record": {
+        "branch": "database-rebuild",
+        "document": "docs/provenance-rights-review.md",
+        "document_commit": "351c7029c8925d5070b0092adc3e87bbc84a7bae",
+        "verification_results": {
+          "source_registration_defined": true,
+          "credibility_levels": 5,
+          "copyright_statuses": 7,
+          "access_levels": 5,
+          "review_statuses": 5,
+          "review_roles_defined": true,
+          "publication_checklist_defined": true,
+          "existing_rights_inferred": false
+        }
+      }
     },
     {
       "id": 7,
       "title": "盘点现有内容",
-      "status": "pending",
+      "status": "completed",
+      "completed_on": "2026-08-19",
       "modifies_code": "否",
       "objective": "逐条盘点网页已有资源、缺失信息、来源不明资料和版权待确认媒体",
       "inventory_categories": ["器物", "人物", "制作工序", "纹样", "曲目", "历史事件", "文化场景"],
       "constraints": ["本步骤只盘点，不急于补齐资料，不推测缺失信息"],
-      "deliverables": ["现有网站资源总表", "缺失信息清单", "待核实内容清单"]
+      "deliverables": ["现有网站资源总表", "缺失信息清单", "待核实内容清单"],
+      "completion_record": {
+        "branch": "database-rebuild",
+        "document": "docs/existing-content-inventory.md",
+        "document_commit": "20feb0f1bc8e7c5a6fbfcd402a299a9055157696",
+        "verification_results": {
+          "candidate_instruments": 5,
+          "component_labels": 15,
+          "craft_steps": 12,
+          "material_and_tool_items": 12,
+          "person_nodes": 24,
+          "music_category_cards": 5,
+          "displayed_music_titles": 18,
+          "audio_samples": 5,
+          "pattern_items": 5,
+          "history_stages": 5,
+          "history_narrative_groups": 3,
+          "scene_themes": 5,
+          "images_in_repository": 73,
+          "audio_files_in_repository": 5,
+          "missing_information_prioritized": true,
+          "facts_or_rights_inferred": false,
+          "existing_exhibition_files_changed": false
+        }
+      }
     },
     {
       "id": 8,
@@ -410,6 +483,30 @@
       "action": "completed_step_3",
       "step": 3,
       "note": "已完成网站栏目结构图、导航方案、页面层级、现有内容去向和三阶段过渡策略；未创建或修改正式页面。"
+    },
+    {
+      "date": "2026-08-19",
+      "action": "completed_step_4",
+      "step": 4,
+      "note": "已完成公共字段、九类专属字段、来源与媒体辅助模板、必填级别和发布最低完整性要求；未创建实际数据记录。"
+    },
+    {
+      "date": "2026-08-19",
+      "action": "completed_step_5",
+      "step": 5,
+      "note": "已完成资源、来源和媒体编号规则，以及图片、音频、视频、模型和文档命名规则；未移动或重命名现有文件。"
+    },
+    {
+      "date": "2026-08-19",
+      "action": "completed_step_6",
+      "step": 6,
+      "note": "已完成来源登记、可信度、版权、公开级别、审核流程和发布检查规范；未推定现有资料的来源或权利状态。"
+    },
+    {
+      "date": "2026-08-19",
+      "action": "completed_step_7",
+      "step": 7,
+      "note": "已盘点九类候选内容、73张图片和5个音频，形成缺失信息与分级待核实清单；未补齐或推测缺失资料。"
     }
   ]
 }
