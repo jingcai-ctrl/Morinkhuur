@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "dataset": "scenes",
+  "dataset_version": "0.1.0-draft",
+  "status": "draft",
+  "generated_at": "2026-08-19",
+  "source_scope": [
+    "index.html",
+    "history.html",
+    "docs/existing-content-inventory.md"
+  ],
+  "notes": [
+    "五项网页内容仅为应用主题，未转换为真实文化场景记录。",
+    "待获得时间、地点、参与者、活动和采集来源后再建档。"
+  ],
+  "records": [],
+  "deferred_candidates": [
+    {
+      "legacy_label": "教育与传承",
+      "legacy_english_label": "EDUCATION & HERITAGE",
+      "media_ref": "MK-D-002",
+      "legacy_location": "index.html#application",
+      "reason": "网页内容是应用主题说明，缺少实际场景的时间、地点、参与者、活动名称和采集信息。"
+    },
+    {
+      "legacy_label": "现代音乐会与跨界融合",
+      "legacy_english_label": "CONCERTS & CROSSOVER",
+      "media_ref": "MK-D-003",
+      "legacy_location": "index.html#application",
+      "reason": "网页内容是应用主题说明，缺少实际场景的时间、地点、参与者、活动名称和采集信息。"
+    },
+    {
+      "legacy_label": "影视配乐与声音设计",
+      "legacy_english_label": "SCORING & SOUND DESIGN",
+      "media_ref": "MK-D-004",
+      "legacy_location": "index.html#application",
+      "reason": "网页内容是应用主题说明，缺少实际场景的时间、地点、参与者、活动名称和采集信息。"
+    },
+    {
+      "legacy_label": "心理疗愈与冥想",
+      "legacy_english_label": "THERAPY & MEDITATION",
+      "media_ref": "MK-D-005",
+      "legacy_location": "index.html#application",
+      "reason": "网页内容是应用主题说明，缺少实际场景的时间、地点、参与者、活动名称和采集信息。"
+    },
+    {
+      "legacy_label": "传统民俗与文化庆典",
+      "legacy_english_label": "FOLK CUSTOMS & CELEBRATIONS",
+      "media_ref": "MK-D-006",
+      "legacy_location": "index.html#application",
+      "reason": "网页内容是应用主题说明，缺少实际场景的时间、地点、参与者、活动名称和采集信息。"
+    }
+  ]
+}

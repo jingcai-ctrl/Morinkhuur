@@ -1,0 +1,1472 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-08-19",
+  "status": "draft",
+  "rules_document": "docs/identifier-file-naming.md",
+  "records": [
+    {
+      "record_id": "MK-C-001",
+      "resource_type": "制作技艺",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/crafts.json#MK-C-001",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-C-002",
+      "resource_type": "制作技艺",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/crafts.json#MK-C-002",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-C-003",
+      "resource_type": "制作技艺",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/crafts.json#MK-C-003",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-C-004",
+      "resource_type": "制作技艺",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/crafts.json#MK-C-004",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-C-005",
+      "resource_type": "制作技艺",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/crafts.json#MK-C-005",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-C-006",
+      "resource_type": "制作技艺",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/crafts.json#MK-C-006",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-C-007",
+      "resource_type": "制作技艺",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/crafts.json#MK-C-007",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-C-008",
+      "resource_type": "制作技艺",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/crafts.json#MK-C-008",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-C-009",
+      "resource_type": "制作技艺",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/crafts.json#MK-C-009",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-C-010",
+      "resource_type": "制作技艺",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/crafts.json#MK-C-010",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-C-011",
+      "resource_type": "制作技艺",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/crafts.json#MK-C-011",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-C-012",
+      "resource_type": "制作技艺",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/crafts.json#MK-C-012",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-CP-001",
+      "resource_type": "部件",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/components.json#MK-CP-001",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-CP-002",
+      "resource_type": "部件",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/components.json#MK-CP-002",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-CP-003",
+      "resource_type": "部件",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/components.json#MK-CP-003",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-CP-004",
+      "resource_type": "部件",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/components.json#MK-CP-004",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-CP-005",
+      "resource_type": "部件",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/components.json#MK-CP-005",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-CP-006",
+      "resource_type": "部件",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/components.json#MK-CP-006",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-CP-007",
+      "resource_type": "部件",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/components.json#MK-CP-007",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-CP-008",
+      "resource_type": "部件",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/components.json#MK-CP-008",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-CP-009",
+      "resource_type": "部件",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/components.json#MK-CP-009",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-CP-010",
+      "resource_type": "部件",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/components.json#MK-CP-010",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-CP-011",
+      "resource_type": "部件",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/components.json#MK-CP-011",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-CP-012",
+      "resource_type": "部件",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/components.json#MK-CP-012",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-CP-013",
+      "resource_type": "部件",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/components.json#MK-CP-013",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-CP-014",
+      "resource_type": "部件",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/components.json#MK-CP-014",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-CP-015",
+      "resource_type": "部件",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/components.json#MK-CP-015",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-001",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-001",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-002",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-002",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-003",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-003",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-004",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-004",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-005",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-005",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-006",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-006",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-007",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-007",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-008",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-008",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-009",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-009",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-010",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-010",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-011",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-011",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-012",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-012",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-013",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-013",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-014",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-014",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-015",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-015",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-016",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-016",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-017",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-017",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-018",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-018",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-019",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-019",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-020",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-020",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-021",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-021",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-022",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-022",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-023",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-023",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-024",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-024",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-025",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-025",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-026",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-026",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-027",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-027",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-028",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-028",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-029",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-029",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-030",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-030",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-031",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-031",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-032",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-032",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-033",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-033",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-034",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-034",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-035",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-035",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-036",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-036",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-037",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-037",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-038",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-038",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-039",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-039",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-040",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-040",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-041",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-041",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-042",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-042",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-043",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-043",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-044",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-044",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-045",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-045",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-046",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-046",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-047",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-047",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-048",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-048",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-049",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-049",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-050",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-050",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-051",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-051",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-052",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-052",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-053",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-053",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-054",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-054",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-055",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-055",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-056",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-056",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-057",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-057",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-058",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-058",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-059",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-059",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-060",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-060",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-061",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-061",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-062",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-062",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-063",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-063",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-064",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-064",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-065",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-065",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-066",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-066",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-067",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-067",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-068",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-068",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-069",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-069",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-070",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-070",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-071",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-071",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-072",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-072",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-073",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-073",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-074",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-074",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-075",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-075",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-D-076",
+      "resource_type": "数字媒体",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/media.json#MK-D-076",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-H-001",
+      "resource_type": "历史事件",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/history.json#MK-H-001",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-H-002",
+      "resource_type": "历史事件",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/history.json#MK-H-002",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-H-003",
+      "resource_type": "历史事件",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/history.json#MK-H-003",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-H-004",
+      "resource_type": "历史事件",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/history.json#MK-H-004",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-H-005",
+      "resource_type": "历史事件",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/history.json#MK-H-005",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-I-001",
+      "resource_type": "器物",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/instruments.json#MK-I-001",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-I-002",
+      "resource_type": "器物",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/instruments.json#MK-I-002",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-I-003",
+      "resource_type": "器物",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/instruments.json#MK-I-003",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-I-004",
+      "resource_type": "器物",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/instruments.json#MK-I-004",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-I-005",
+      "resource_type": "器物",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/instruments.json#MK-I-005",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-M-001",
+      "resource_type": "音乐与曲目",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/music.json#MK-M-001",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-M-002",
+      "resource_type": "音乐与曲目",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/music.json#MK-M-002",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-M-003",
+      "resource_type": "音乐与曲目",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/music.json#MK-M-003",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-M-004",
+      "resource_type": "音乐与曲目",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/music.json#MK-M-004",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-M-005",
+      "resource_type": "音乐与曲目",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/music.json#MK-M-005",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-M-006",
+      "resource_type": "音乐与曲目",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/music.json#MK-M-006",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-M-007",
+      "resource_type": "音乐与曲目",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/music.json#MK-M-007",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-M-008",
+      "resource_type": "音乐与曲目",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/music.json#MK-M-008",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-M-009",
+      "resource_type": "音乐与曲目",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/music.json#MK-M-009",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-M-010",
+      "resource_type": "音乐与曲目",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/music.json#MK-M-010",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-M-011",
+      "resource_type": "音乐与曲目",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/music.json#MK-M-011",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-M-012",
+      "resource_type": "音乐与曲目",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/music.json#MK-M-012",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-M-013",
+      "resource_type": "音乐与曲目",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/music.json#MK-M-013",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-M-014",
+      "resource_type": "音乐与曲目",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/music.json#MK-M-014",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-M-015",
+      "resource_type": "音乐与曲目",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/music.json#MK-M-015",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-M-016",
+      "resource_type": "音乐与曲目",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/music.json#MK-M-016",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-M-017",
+      "resource_type": "音乐与曲目",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/music.json#MK-M-017",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-M-018",
+      "resource_type": "音乐与曲目",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/music.json#MK-M-018",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-M-019",
+      "resource_type": "音乐与曲目",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/music.json#MK-M-019",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-M-020",
+      "resource_type": "音乐与曲目",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/music.json#MK-M-020",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-M-021",
+      "resource_type": "音乐与曲目",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/music.json#MK-M-021",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-M-022",
+      "resource_type": "音乐与曲目",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/music.json#MK-M-022",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-M-023",
+      "resource_type": "音乐与曲目",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/music.json#MK-M-023",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-M-024",
+      "resource_type": "音乐与曲目",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/music.json#MK-M-024",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-M-025",
+      "resource_type": "音乐与曲目",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/music.json#MK-M-025",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-M-026",
+      "resource_type": "音乐与曲目",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/music.json#MK-M-026",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-M-027",
+      "resource_type": "音乐与曲目",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/music.json#MK-M-027",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-M-028",
+      "resource_type": "音乐与曲目",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/music.json#MK-M-028",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-MT-001",
+      "resource_type": "制作材料与工具",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/materials-tools.json#MK-MT-001",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-MT-002",
+      "resource_type": "制作材料与工具",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/materials-tools.json#MK-MT-002",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-MT-003",
+      "resource_type": "制作材料与工具",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/materials-tools.json#MK-MT-003",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-MT-004",
+      "resource_type": "制作材料与工具",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/materials-tools.json#MK-MT-004",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-MT-005",
+      "resource_type": "制作材料与工具",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/materials-tools.json#MK-MT-005",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-MT-006",
+      "resource_type": "制作材料与工具",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/materials-tools.json#MK-MT-006",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-MT-007",
+      "resource_type": "制作材料与工具",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/materials-tools.json#MK-MT-007",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-MT-008",
+      "resource_type": "制作材料与工具",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/materials-tools.json#MK-MT-008",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-MT-009",
+      "resource_type": "制作材料与工具",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/materials-tools.json#MK-MT-009",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-MT-010",
+      "resource_type": "制作材料与工具",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/materials-tools.json#MK-MT-010",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-MT-011",
+      "resource_type": "制作材料与工具",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/materials-tools.json#MK-MT-011",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-MT-012",
+      "resource_type": "制作材料与工具",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/materials-tools.json#MK-MT-012",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-P-001",
+      "resource_type": "传承人物",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/people.json#MK-P-001",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-P-002",
+      "resource_type": "传承人物",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/people.json#MK-P-002",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-P-003",
+      "resource_type": "传承人物",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/people.json#MK-P-003",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-P-004",
+      "resource_type": "传承人物",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/people.json#MK-P-004",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-P-005",
+      "resource_type": "传承人物",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/people.json#MK-P-005",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-P-006",
+      "resource_type": "传承人物",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/people.json#MK-P-006",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-P-007",
+      "resource_type": "传承人物",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/people.json#MK-P-007",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-P-008",
+      "resource_type": "传承人物",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/people.json#MK-P-008",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-P-009",
+      "resource_type": "传承人物",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/people.json#MK-P-009",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-P-010",
+      "resource_type": "传承人物",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/people.json#MK-P-010",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-P-011",
+      "resource_type": "传承人物",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/people.json#MK-P-011",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-P-012",
+      "resource_type": "传承人物",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/people.json#MK-P-012",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-P-013",
+      "resource_type": "传承人物",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/people.json#MK-P-013",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-P-014",
+      "resource_type": "传承人物",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/people.json#MK-P-014",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-P-015",
+      "resource_type": "传承人物",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/people.json#MK-P-015",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-P-016",
+      "resource_type": "传承人物",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/people.json#MK-P-016",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-P-017",
+      "resource_type": "传承人物",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/people.json#MK-P-017",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-P-018",
+      "resource_type": "传承人物",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/people.json#MK-P-018",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-P-019",
+      "resource_type": "传承人物",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/people.json#MK-P-019",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-P-020",
+      "resource_type": "传承人物",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/people.json#MK-P-020",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-P-021",
+      "resource_type": "传承人物",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/people.json#MK-P-021",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-P-022",
+      "resource_type": "传承人物",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/people.json#MK-P-022",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-PT-001",
+      "resource_type": "装饰纹样",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/patterns.json#MK-PT-001",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-PT-002",
+      "resource_type": "装饰纹样",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/patterns.json#MK-PT-002",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-PT-003",
+      "resource_type": "装饰纹样",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/patterns.json#MK-PT-003",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-PT-004",
+      "resource_type": "装饰纹样",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/patterns.json#MK-PT-004",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-PT-005",
+      "resource_type": "装饰纹样",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/patterns.json#MK-PT-005",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-R-001",
+      "resource_type": "参考来源",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/references.json#MK-R-001",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-R-002",
+      "resource_type": "参考来源",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/references.json#MK-R-002",
+      "replaced_by": null
+    },
+    {
+      "record_id": "MK-R-003",
+      "resource_type": "参考来源",
+      "status": "draft",
+      "assigned_at": "2026-08-19",
+      "current_record_path": "data/references.json#MK-R-003",
+      "replaced_by": null
+    }
+  ]
+}

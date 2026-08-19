@@ -1,0 +1,2572 @@
+{
+  "schema_version": 1,
+  "dataset": "media",
+  "dataset_version": "0.1.0-draft",
+  "status": "draft",
+  "generated_at": "2026-08-19",
+  "source_scope": [
+    "docs/media-file-map.csv"
+  ],
+  "records": [
+    {
+      "media_id": "MK-D-001",
+      "parent_record_refs": [],
+      "media_type": "image",
+      "file_path": "assets/images/scenes/epilogue-user-image.png",
+      "original_filename": "epilogue-user-image.png",
+      "legacy_path": "assets/application/epilogue-user-image.png",
+      "legacy_migration_id": "S8-MEDIA-001",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "2b8c8e3debb31e7f6f077d0d213ca208e3519502"
+      },
+      "technical_metadata": {
+        "bytes": 1776522,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-002",
+      "parent_record_refs": [],
+      "media_type": "image",
+      "file_path": "assets/images/scenes/scene-panel-01.png",
+      "original_filename": "panel1.png",
+      "legacy_path": "assets/application/panel1.png",
+      "legacy_migration_id": "S8-MEDIA-002",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "c731050c1573b54d46f73e95d1e8186a2354d912"
+      },
+      "technical_metadata": {
+        "bytes": 586461,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-003",
+      "parent_record_refs": [],
+      "media_type": "image",
+      "file_path": "assets/images/scenes/scene-panel-02.png",
+      "original_filename": "panel2.png",
+      "legacy_path": "assets/application/panel2.png",
+      "legacy_migration_id": "S8-MEDIA-003",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "fc0cabaa40a8e1ad0fea76e3a717e6f586fd5f78"
+      },
+      "technical_metadata": {
+        "bytes": 542477,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-004",
+      "parent_record_refs": [],
+      "media_type": "image",
+      "file_path": "assets/images/scenes/scene-panel-03.png",
+      "original_filename": "panel3.png",
+      "legacy_path": "assets/application/panel3.png",
+      "legacy_migration_id": "S8-MEDIA-004",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "5ce2a07da9ca9aafda239c9fde82e49244b58082"
+      },
+      "technical_metadata": {
+        "bytes": 586244,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-005",
+      "parent_record_refs": [],
+      "media_type": "image",
+      "file_path": "assets/images/scenes/scene-panel-04.png",
+      "original_filename": "panel4.png",
+      "legacy_path": "assets/application/panel4.png",
+      "legacy_migration_id": "S8-MEDIA-005",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "55d6f70ab5ea0f3ef3a1d9f6df16329ed20f80a1"
+      },
+      "technical_metadata": {
+        "bytes": 680512,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-006",
+      "parent_record_refs": [],
+      "media_type": "image",
+      "file_path": "assets/images/scenes/scene-panel-05.png",
+      "original_filename": "panel5.png",
+      "legacy_path": "assets/application/panel5.png",
+      "legacy_migration_id": "S8-MEDIA-006",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "786cbe1981343670531f6a27e499645e71c03fe2"
+      },
+      "technical_metadata": {
+        "bytes": 275039,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-007",
+      "parent_record_refs": [
+        "MK-C-001"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/crafts/craft-step-01.png",
+      "original_filename": "1.png",
+      "legacy_path": "assets/craft/1.png",
+      "legacy_migration_id": "S8-MEDIA-007",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "bd35a9c8827cc6b93d1d8e0774257e37c4032f97"
+      },
+      "technical_metadata": {
+        "bytes": 2771792,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-008",
+      "parent_record_refs": [
+        "MK-C-002"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/crafts/craft-step-02.png",
+      "original_filename": "2.png",
+      "legacy_path": "assets/craft/2.png",
+      "legacy_migration_id": "S8-MEDIA-008",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "0b010cdb474736a9420ab46c7ba0a7ae658b4de9"
+      },
+      "technical_metadata": {
+        "bytes": 2758601,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-009",
+      "parent_record_refs": [
+        "MK-C-003"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/crafts/craft-step-03.png",
+      "original_filename": "3.png",
+      "legacy_path": "assets/craft/3.png",
+      "legacy_migration_id": "S8-MEDIA-009",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "83cd87bda941be4d6ff8fd2c7f2b545ee35ada30"
+      },
+      "technical_metadata": {
+        "bytes": 2825275,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-010",
+      "parent_record_refs": [
+        "MK-C-004"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/crafts/craft-step-04.png",
+      "original_filename": "4.png",
+      "legacy_path": "assets/craft/4.png",
+      "legacy_migration_id": "S8-MEDIA-010",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "b906949dd847ff8e559663d06a2bdf83101549fc"
+      },
+      "technical_metadata": {
+        "bytes": 2379403,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-011",
+      "parent_record_refs": [
+        "MK-C-005"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/crafts/craft-step-05.png",
+      "original_filename": "5.png",
+      "legacy_path": "assets/craft/5.png",
+      "legacy_migration_id": "S8-MEDIA-011",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "c845bcd8caa721a16316454ffbaa468df5403362"
+      },
+      "technical_metadata": {
+        "bytes": 2349763,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-012",
+      "parent_record_refs": [
+        "MK-C-006"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/crafts/craft-step-06.png",
+      "original_filename": "6.png",
+      "legacy_path": "assets/craft/6.png",
+      "legacy_migration_id": "S8-MEDIA-012",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "5a807b4633f0c8712475f72338714d34330e4b9c"
+      },
+      "technical_metadata": {
+        "bytes": 2801186,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-013",
+      "parent_record_refs": [
+        "MK-C-007"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/crafts/craft-step-07.png",
+      "original_filename": "7.png",
+      "legacy_path": "assets/craft/7.png",
+      "legacy_migration_id": "S8-MEDIA-013",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "b8489f969ad6a0d0de52e468109d3a8a8e6a08d3"
+      },
+      "technical_metadata": {
+        "bytes": 2551009,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-014",
+      "parent_record_refs": [
+        "MK-C-008"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/crafts/craft-step-08.png",
+      "original_filename": "8.png",
+      "legacy_path": "assets/craft/8.png",
+      "legacy_migration_id": "S8-MEDIA-014",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "6251f7bbb2f56dd68ce57e2613473c632bd9fa37"
+      },
+      "technical_metadata": {
+        "bytes": 2466740,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-015",
+      "parent_record_refs": [
+        "MK-C-009"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/crafts/craft-step-09.png",
+      "original_filename": "9.png",
+      "legacy_path": "assets/craft/9.png",
+      "legacy_migration_id": "S8-MEDIA-015",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "112c7f257613ef3b61e337960cf1df86ba69fcba"
+      },
+      "technical_metadata": {
+        "bytes": 1961737,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-016",
+      "parent_record_refs": [
+        "MK-C-010"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/crafts/craft-step-10.png",
+      "original_filename": "10.png",
+      "legacy_path": "assets/craft/10.png",
+      "legacy_migration_id": "S8-MEDIA-016",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "a0afc45169a946c200246a3830dec10dcdd85948"
+      },
+      "technical_metadata": {
+        "bytes": 2524230,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-017",
+      "parent_record_refs": [
+        "MK-C-011"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/crafts/craft-step-11.png",
+      "original_filename": "11.png",
+      "legacy_path": "assets/craft/11.png",
+      "legacy_migration_id": "S8-MEDIA-017",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "41aa4f783f2cfeb71ac9d11eb1c8c5d88851b2a1"
+      },
+      "technical_metadata": {
+        "bytes": 2948379,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-018",
+      "parent_record_refs": [
+        "MK-C-012"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/crafts/craft-step-12.png",
+      "original_filename": "12.png",
+      "legacy_path": "assets/craft/12.png",
+      "legacy_migration_id": "S8-MEDIA-018",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "2dd342617e852625724101ffe976b70852fddf8e"
+      },
+      "technical_metadata": {
+        "bytes": 2405331,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-019",
+      "parent_record_refs": [
+        "MK-H-001"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/history/history-xiqin.jpeg",
+      "original_filename": "history-xiqin.jpeg",
+      "legacy_path": "assets/history/history-xiqin.jpeg",
+      "legacy_migration_id": "S8-MEDIA-019",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "b92261fc95f37017f0e845210af7e6543a15c465"
+      },
+      "technical_metadata": {
+        "bytes": 40374,
+        "extension": "jpeg"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-020",
+      "parent_record_refs": [
+        "MK-H-002"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/history/history-huobisi.jpeg",
+      "original_filename": "history-huobusi.jpeg",
+      "legacy_path": "assets/history/history-huobusi.jpeg",
+      "legacy_migration_id": "S8-MEDIA-020",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "b64306dea9c6ebae5c1a39265ae36b4692586bdf"
+      },
+      "technical_metadata": {
+        "bytes": 17064,
+        "extension": "jpeg"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-021",
+      "parent_record_refs": [
+        "MK-H-003"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/history/history-mawei-huqin.jpeg",
+      "original_filename": "history-mawei.jpeg",
+      "legacy_path": "assets/history/history-mawei.jpeg",
+      "legacy_migration_id": "S8-MEDIA-021",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "ffbdfdfb33c8191548059d98861d32c124c098ca"
+      },
+      "technical_metadata": {
+        "bytes": 207404,
+        "extension": "jpeg"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-022",
+      "parent_record_refs": [
+        "MK-H-004"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/history/history-chaoer.jpeg",
+      "original_filename": "history-chaoer.jpeg",
+      "legacy_path": "assets/history/history-chaoer.jpeg",
+      "legacy_migration_id": "S8-MEDIA-022",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "59a7e924a1c47d145ca35de4504f7cff18c332f4"
+      },
+      "technical_metadata": {
+        "bytes": 39944,
+        "extension": "jpeg"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-023",
+      "parent_record_refs": [
+        "MK-H-005"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/history/history-modern.jpeg",
+      "original_filename": "history-modern.jpeg",
+      "legacy_path": "assets/history/history-modern.jpeg",
+      "legacy_migration_id": "S8-MEDIA-023",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "581906c7baedb3b5dd81cbddce5e7c34de7a501d"
+      },
+      "technical_metadata": {
+        "bytes": 180244,
+        "extension": "jpeg"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-024",
+      "parent_record_refs": [
+        "MK-H-001",
+        "MK-H-002",
+        "MK-H-003",
+        "MK-H-004",
+        "MK-H-005"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/history/history-overview.png",
+      "original_filename": "history-slide1.png",
+      "legacy_path": "assets/history/history-slide1.png",
+      "legacy_migration_id": "S8-MEDIA-024",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "741a8facfc7fe12a8402a8eb9bfddcb116601f55"
+      },
+      "technical_metadata": {
+        "bytes": 342274,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-025",
+      "parent_record_refs": [],
+      "media_type": "image",
+      "file_path": "assets/images/instruments/exhibition-hero.png",
+      "original_filename": "matouqin.png",
+      "legacy_path": "assets/images/matouqin.png",
+      "legacy_migration_id": "S8-MEDIA-027",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "7c5cb83cabf2dc09a8ada8baa827813d45a03d84"
+      },
+      "technical_metadata": {
+        "bytes": 858085,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-026",
+      "parent_record_refs": [],
+      "media_type": "image",
+      "file_path": "assets/images/instruments/section-background.png",
+      "original_filename": "琴2.png",
+      "legacy_path": "assets/images/琴2.png",
+      "legacy_migration_id": "S8-MEDIA-028",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "0d3a87341b1cb5811e6d36c36ce70cc54e845d44"
+      },
+      "technical_metadata": {
+        "bytes": 374487,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-027",
+      "parent_record_refs": [
+        "MK-I-001"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/instruments/traditional-skin.png",
+      "original_filename": "cover_001.png",
+      "legacy_path": "assets/instrument-types/cover_001.png",
+      "legacy_migration_id": "S8-MEDIA-029",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "ef3188256b4233035cd5355395445d118cbe0f44"
+      },
+      "technical_metadata": {
+        "bytes": 156618,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-028",
+      "parent_record_refs": [
+        "MK-I-002"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/instruments/plain-traditional.png",
+      "original_filename": "传统素面马头琴.png",
+      "legacy_path": "assets/instrument-types/传统素面马头琴.png",
+      "legacy_migration_id": "S8-MEDIA-030",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "b0f7a03659053031d6b50a4210e5abc0edf2a96e"
+      },
+      "technical_metadata": {
+        "bytes": 293585,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-029",
+      "parent_record_refs": [
+        "MK-I-003"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/instruments/modern-wood.png",
+      "original_filename": "现代改良马头琴.png",
+      "legacy_path": "assets/instrument-types/现代改良马头琴.png",
+      "legacy_migration_id": "S8-MEDIA-031",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "be99967838cace2b6bc2a29e374cb520a0627b3e"
+      },
+      "technical_metadata": {
+        "bytes": 223720,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-030",
+      "parent_record_refs": [
+        "MK-I-004"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/instruments/dragon-painted.png",
+      "original_filename": "龙首装饰彩绘马头琴样本.png",
+      "legacy_path": "assets/instrument-types/龙首装饰彩绘马头琴样本.png",
+      "legacy_migration_id": "S8-MEDIA-032",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "76c4225f8e7dd3594cecfbf27e832b10862aedfd"
+      },
+      "technical_metadata": {
+        "bytes": 210654,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-031",
+      "parent_record_refs": [
+        "MK-I-005"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/instruments/rosewood-deluxe.png",
+      "original_filename": "cover_012.png",
+      "legacy_path": "assets/instrument-types/cover_012.png",
+      "legacy_migration_id": "S8-MEDIA-033",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "d5d5a29ca91d2edb63f94a176a3f90907bf0add2"
+      },
+      "technical_metadata": {
+        "bytes": 125585,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-032",
+      "parent_record_refs": [
+        "MK-MT-001"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/materials-tools/material-01.png",
+      "original_filename": "五角桐.png",
+      "legacy_path": "assets/materials/五角桐.png",
+      "legacy_migration_id": "S8-MEDIA-034",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "1ba85643958ef65750e5605b19551498d45bc8e7"
+      },
+      "technical_metadata": {
+        "bytes": 32856,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-033",
+      "parent_record_refs": [
+        "MK-MT-002"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/materials-tools/material-02.png",
+      "original_filename": "泡桐.png",
+      "legacy_path": "assets/materials/泡桐.png",
+      "legacy_migration_id": "S8-MEDIA-035",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "d079f0f9922e851ea91bb02d5292f837791cb0c9"
+      },
+      "technical_metadata": {
+        "bytes": 17641,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-034",
+      "parent_record_refs": [
+        "MK-MT-003"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/materials-tools/material-03.png",
+      "original_filename": "鱼鳞云杉.png",
+      "legacy_path": "assets/materials/鱼鳞云杉.png",
+      "legacy_migration_id": "S8-MEDIA-036",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "f5fddffc98950834ef09a4929547861335c68352"
+      },
+      "technical_metadata": {
+        "bytes": 40265,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-035",
+      "parent_record_refs": [
+        "MK-MT-004"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/materials-tools/material-04.png",
+      "original_filename": "松木.png",
+      "legacy_path": "assets/materials/松木.png",
+      "legacy_migration_id": "S8-MEDIA-037",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "08f8d57d5d8d3b28e2b71f540d38d1e772e7b4e5"
+      },
+      "technical_metadata": {
+        "bytes": 28368,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-036",
+      "parent_record_refs": [
+        "MK-MT-005"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/materials-tools/material-05.png",
+      "original_filename": "柳木.png",
+      "legacy_path": "assets/materials/柳木.png",
+      "legacy_migration_id": "S8-MEDIA-038",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "d1947edbd21bce37bcd9f5eca84b981484373f26"
+      },
+      "technical_metadata": {
+        "bytes": 33833,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-037",
+      "parent_record_refs": [
+        "MK-M-001"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/music/tatleger.png",
+      "original_filename": "tatleger.png",
+      "legacy_path": "assets/music-classification/tatleger.png",
+      "legacy_migration_id": "S8-MEDIA-039",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "9498e7f35e5fabffbdac80a57723b360aecb393f"
+      },
+      "technical_metadata": {
+        "bytes": 1390784,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-038",
+      "parent_record_refs": [
+        "MK-M-002"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/music/asar.png",
+      "original_filename": "asar.png",
+      "legacy_path": "assets/music-classification/asar.png",
+      "legacy_migration_id": "S8-MEDIA-040",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "d0c7332bfa4bd85333dc7c03a96d52c2f0602366"
+      },
+      "technical_metadata": {
+        "bytes": 1003540,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-039",
+      "parent_record_refs": [
+        "MK-M-003"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/music/longsong.png",
+      "original_filename": "longsong.png",
+      "legacy_path": "assets/music-classification/longsong.png",
+      "legacy_migration_id": "S8-MEDIA-041",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "562c6d8343cc2769ec6c97cad597bd3652ccab0a"
+      },
+      "technical_metadata": {
+        "bytes": 1689593,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-040",
+      "parent_record_refs": [
+        "MK-M-004"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/music/shortsong.png",
+      "original_filename": "shortsong.png",
+      "legacy_path": "assets/music-classification/shortsong.png",
+      "legacy_migration_id": "S8-MEDIA-042",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "f46558a8293a4d9d9f3cea4b7ca0703378c07d01"
+      },
+      "technical_metadata": {
+        "bytes": 2195966,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-041",
+      "parent_record_refs": [
+        "MK-M-005"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/music/epic.png",
+      "original_filename": "epic.png",
+      "legacy_path": "assets/music-classification/epic.png",
+      "legacy_migration_id": "S8-MEDIA-043",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "e10930ed26dc39d5df21028d2cad4a68e27d8772"
+      },
+      "technical_metadata": {
+        "bytes": 2143526,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-042",
+      "parent_record_refs": [],
+      "media_type": "image",
+      "file_path": "assets/images/interface/navigation/anatomy.png",
+      "original_filename": "马头琴结构.png",
+      "legacy_path": "assets/nav-icons/马头琴结构.png",
+      "legacy_migration_id": "S8-MEDIA-044",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "495eb1c5cfa29ef06217d56de86c1adccb108297"
+      },
+      "technical_metadata": {
+        "bytes": 7148,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-043",
+      "parent_record_refs": [],
+      "media_type": "image",
+      "file_path": "assets/images/interface/navigation/instrument-types.png",
+      "original_filename": "马头琴样本.png",
+      "legacy_path": "assets/nav-icons/马头琴样本.png",
+      "legacy_migration_id": "S8-MEDIA-045",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "9205312d8568f6b43f00ac89bd04d5c3f6263360"
+      },
+      "technical_metadata": {
+        "bytes": 7284,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-044",
+      "parent_record_refs": [],
+      "media_type": "image",
+      "file_path": "assets/images/interface/navigation/patterns.png",
+      "original_filename": "马头琴纹样.png",
+      "legacy_path": "assets/nav-icons/马头琴纹样.png",
+      "legacy_migration_id": "S8-MEDIA-046",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "0d6ad918d46124f117eceafcd200046dee0431d9"
+      },
+      "technical_metadata": {
+        "bytes": 13497,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-045",
+      "parent_record_refs": [],
+      "media_type": "image",
+      "file_path": "assets/images/interface/navigation/history.png",
+      "original_filename": "历史脉络.png",
+      "legacy_path": "assets/nav-icons/历史脉络.png",
+      "legacy_migration_id": "S8-MEDIA-047",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "9f2868abc469e1c1fd7ab7fa2ba8757fdff629e0"
+      },
+      "technical_metadata": {
+        "bytes": 5524,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-046",
+      "parent_record_refs": [],
+      "media_type": "image",
+      "file_path": "assets/images/interface/navigation/culture.png",
+      "original_filename": "文化与故事.png",
+      "legacy_path": "assets/nav-icons/文化与故事.png",
+      "legacy_migration_id": "S8-MEDIA-048",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "ca528f41ce54d7b12e69573bd7b506e9f84df203"
+      },
+      "technical_metadata": {
+        "bytes": 6721,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-047",
+      "parent_record_refs": [],
+      "media_type": "image",
+      "file_path": "assets/images/interface/navigation/music.png",
+      "original_filename": "音乐分类.png",
+      "legacy_path": "assets/nav-icons/音乐分类.png",
+      "legacy_migration_id": "S8-MEDIA-049",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "74238b4021cae7b761a7abd03c4f20e625f54bce"
+      },
+      "technical_metadata": {
+        "bytes": 6830,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-048",
+      "parent_record_refs": [],
+      "media_type": "image",
+      "file_path": "assets/images/interface/navigation/craftsmanship.png",
+      "original_filename": "制作工艺.png",
+      "legacy_path": "assets/nav-icons/制作工艺.png",
+      "legacy_migration_id": "S8-MEDIA-050",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "f59043375fb5ff2ed24c09cdd631d01b3100f748"
+      },
+      "technical_metadata": {
+        "bytes": 28900,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-049",
+      "parent_record_refs": [],
+      "media_type": "image",
+      "file_path": "assets/images/interface/navigation/performance.png",
+      "original_filename": "演奏.png",
+      "legacy_path": "assets/nav-icons/演奏.png",
+      "legacy_migration_id": "S8-MEDIA-051",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "6c7cd9633b277ebb3180e0d91645e73814982779"
+      },
+      "technical_metadata": {
+        "bytes": 28228,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-050",
+      "parent_record_refs": [],
+      "media_type": "image",
+      "file_path": "assets/images/interface/navigation/heritage.png",
+      "original_filename": "传承与发展.png",
+      "legacy_path": "assets/nav-icons/传承与发展.png",
+      "legacy_migration_id": "S8-MEDIA-052",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "2c6c333471e16d2fbb8f3ec14a9a09c67eda0e36"
+      },
+      "technical_metadata": {
+        "bytes": 27827,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-051",
+      "parent_record_refs": [],
+      "media_type": "image",
+      "file_path": "assets/images/interface/navigation/scenes.png",
+      "original_filename": "应用场景.png",
+      "legacy_path": "assets/nav-icons/应用场景.png",
+      "legacy_migration_id": "S8-MEDIA-053",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "e89b7e221bc6fe0cee9b4d6e6c00f5674b6e49cf"
+      },
+      "technical_metadata": {
+        "bytes": 41068,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-052",
+      "parent_record_refs": [
+        "MK-PT-001"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/patterns/pattern-01.png",
+      "original_filename": "寿字纹.png",
+      "legacy_path": "assets/patterns/寿字纹.png",
+      "legacy_migration_id": "S8-MEDIA-054",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "821e9c864477c2a53a273d5bfa687c84b4d2ee21"
+      },
+      "technical_metadata": {
+        "bytes": 304835,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-053",
+      "parent_record_refs": [
+        "MK-PT-002"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/patterns/pattern-02.png",
+      "original_filename": "云纹.png",
+      "legacy_path": "assets/patterns/云纹.png",
+      "legacy_migration_id": "S8-MEDIA-055",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "e2da40711a64f5e057623c7afc4e24bc9b219f0d"
+      },
+      "technical_metadata": {
+        "bytes": 364848,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-054",
+      "parent_record_refs": [
+        "MK-PT-003"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/patterns/pattern-03.png",
+      "original_filename": "犄纹.png",
+      "legacy_path": "assets/patterns/犄纹.png",
+      "legacy_migration_id": "S8-MEDIA-056",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "ee958d6d753f3545867bc51536f939c57580bf2f"
+      },
+      "technical_metadata": {
+        "bytes": 372488,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-055",
+      "parent_record_refs": [
+        "MK-PT-004"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/patterns/pattern-04.png",
+      "original_filename": "盘肠纹.png",
+      "legacy_path": "assets/patterns/盘肠纹.png",
+      "legacy_migration_id": "S8-MEDIA-057",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "2b2bb34a76d6463290e737109313ff61b3f9027d"
+      },
+      "technical_metadata": {
+        "bytes": 351128,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-056",
+      "parent_record_refs": [
+        "MK-PT-005"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/patterns/pattern-05.png",
+      "original_filename": "回纹.png",
+      "legacy_path": "assets/patterns/回纹.png",
+      "legacy_migration_id": "S8-MEDIA-058",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "12e38cf2eafa2b04bc68fb3fd8f4b17c3f5425b9"
+      },
+      "technical_metadata": {
+        "bytes": 347259,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-057",
+      "parent_record_refs": [],
+      "media_type": "image",
+      "file_path": "assets/images/performance/fingering-main.jpg",
+      "original_filename": "fingering-main.jpg",
+      "legacy_path": "assets/performance/fingering-main.jpg",
+      "legacy_migration_id": "S8-MEDIA-059",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "689620359e264dfc55fe55e13339714fb78b00ee"
+      },
+      "technical_metadata": {
+        "bytes": 69490,
+        "extension": "jpg"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-058",
+      "parent_record_refs": [],
+      "media_type": "image",
+      "file_path": "assets/images/performance/posture-main.jpg",
+      "original_filename": "posture-main.jpg",
+      "legacy_path": "assets/performance/posture-main.jpg",
+      "legacy_migration_id": "S8-MEDIA-060",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "bb981c02128248a46b7b40a8daea507a49fa7ecb"
+      },
+      "technical_metadata": {
+        "bytes": 134399,
+        "extension": "jpg"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-059",
+      "parent_record_refs": [],
+      "media_type": "image",
+      "file_path": "assets/images/performance/posture-upper.png",
+      "original_filename": "posture-upper-new.png",
+      "legacy_path": "assets/performance/posture-upper-new.png",
+      "legacy_migration_id": "S8-MEDIA-061",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "ca4ed736b072f78102bfb8cfc7c8011325c885ae"
+      },
+      "technical_metadata": {
+        "bytes": 167603,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-060",
+      "parent_record_refs": [],
+      "media_type": "image",
+      "file_path": "assets/images/performance/posture-lower.png",
+      "original_filename": "posture-lower-new.png",
+      "legacy_path": "assets/performance/posture-lower-new.png",
+      "legacy_migration_id": "S8-MEDIA-062",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "74eefc90344751d1837158cad0a922673796aeb3"
+      },
+      "technical_metadata": {
+        "bytes": 92300,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-061",
+      "parent_record_refs": [
+        "MK-M-024"
+      ],
+      "media_type": "audio",
+      "file_path": "assets/audio/performance/do.mp3",
+      "original_filename": "do.mp3",
+      "legacy_path": "assets/performance/sounds/do.mp3",
+      "legacy_migration_id": "S8-MEDIA-063",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "bb16ae1d02cb501ed212cce214acedaf347626ca"
+      },
+      "technical_metadata": {
+        "bytes": 46354,
+        "extension": "mp3"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-062",
+      "parent_record_refs": [
+        "MK-M-025"
+      ],
+      "media_type": "audio",
+      "file_path": "assets/audio/performance/re.mp3",
+      "original_filename": "re.mp3",
+      "legacy_path": "assets/performance/sounds/re.mp3",
+      "legacy_migration_id": "S8-MEDIA-064",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "95464ac8a30bceb3a0ff08ee8c9384c7df28ea29"
+      },
+      "technical_metadata": {
+        "bytes": 41698,
+        "extension": "mp3"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-063",
+      "parent_record_refs": [
+        "MK-M-026"
+      ],
+      "media_type": "audio",
+      "file_path": "assets/audio/performance/mi.mp3",
+      "original_filename": "mi.mp3",
+      "legacy_path": "assets/performance/sounds/mi.mp3",
+      "legacy_migration_id": "S8-MEDIA-065",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "2e7283406f4f7cf57e5243e02086fb81e52af750"
+      },
+      "technical_metadata": {
+        "bytes": 39394,
+        "extension": "mp3"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-064",
+      "parent_record_refs": [
+        "MK-M-027"
+      ],
+      "media_type": "audio",
+      "file_path": "assets/audio/performance/sol.mp3",
+      "original_filename": "sol.mp3",
+      "legacy_path": "assets/performance/sounds/sol.mp3",
+      "legacy_migration_id": "S8-MEDIA-066",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "8daec438df2043d72878dd954257df8a8eca8bfd"
+      },
+      "technical_metadata": {
+        "bytes": 41890,
+        "extension": "mp3"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-065",
+      "parent_record_refs": [
+        "MK-M-028"
+      ],
+      "media_type": "audio",
+      "file_path": "assets/audio/performance/la.mp3",
+      "original_filename": "la.mp3",
+      "legacy_path": "assets/performance/sounds/la.mp3",
+      "legacy_migration_id": "S8-MEDIA-067",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "dd1ff63d76ce9736885c435c79943aa3bf7f6dee"
+      },
+      "technical_metadata": {
+        "bytes": 46882,
+        "extension": "mp3"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-066",
+      "parent_record_refs": [
+        "MK-MT-006"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/materials-tools/tool-01.png",
+      "original_filename": "锯子.png",
+      "legacy_path": "assets/tools/锯子.png",
+      "legacy_migration_id": "S8-MEDIA-068",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "5ad8048782e37eadeda18eac77cc85b473584e68"
+      },
+      "technical_metadata": {
+        "bytes": 10966,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-067",
+      "parent_record_refs": [
+        "MK-MT-007"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/materials-tools/tool-02.png",
+      "original_filename": "美工刀.png",
+      "legacy_path": "assets/tools/美工刀.png",
+      "legacy_migration_id": "S8-MEDIA-069",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "486bb4330e52534d34f2cd24a5da891183d6447e"
+      },
+      "technical_metadata": {
+        "bytes": 9803,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-068",
+      "parent_record_refs": [
+        "MK-MT-008"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/materials-tools/tool-03.png",
+      "original_filename": "电钻.png",
+      "legacy_path": "assets/tools/电钻.png",
+      "legacy_migration_id": "S8-MEDIA-070",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "2b1e54a7814d6fe7a1338d5e86d0e8aec02c7857"
+      },
+      "technical_metadata": {
+        "bytes": 8326,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-069",
+      "parent_record_refs": [
+        "MK-MT-009"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/materials-tools/tool-04.png",
+      "original_filename": "钳子.png",
+      "legacy_path": "assets/tools/钳子.png",
+      "legacy_migration_id": "S8-MEDIA-071",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "da7b970fa5b6dab5e4fe474cb36b1755b76b9cda"
+      },
+      "technical_metadata": {
+        "bytes": 12937,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-070",
+      "parent_record_refs": [
+        "MK-MT-010"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/materials-tools/tool-05.png",
+      "original_filename": "卷尺.png",
+      "legacy_path": "assets/tools/卷尺.png",
+      "legacy_migration_id": "S8-MEDIA-072",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "a50629f15faaa2d7ec10b72b585bd1038f4a168d"
+      },
+      "technical_metadata": {
+        "bytes": 12093,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-071",
+      "parent_record_refs": [
+        "MK-MT-011"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/materials-tools/tool-06.png",
+      "original_filename": "刷子.png",
+      "legacy_path": "assets/tools/刷子.png",
+      "legacy_migration_id": "S8-MEDIA-073",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "4cc17a1803173d704b23efb3404836a976371003"
+      },
+      "technical_metadata": {
+        "bytes": 15916,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-072",
+      "parent_record_refs": [
+        "MK-MT-012"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/materials-tools/tool-07.png",
+      "original_filename": "各类工具.png",
+      "legacy_path": "assets/tools/各类工具.png",
+      "legacy_migration_id": "S8-MEDIA-074",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "464780fad5418085db77e12d5d574c4703a6feaf"
+      },
+      "technical_metadata": {
+        "bytes": 54814,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-073",
+      "parent_record_refs": [
+        "MK-CP-001"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/components/animal-headstock.png",
+      "original_filename": "动物琴头.png",
+      "legacy_path": "img/动物琴头.png",
+      "legacy_migration_id": "S8-MEDIA-075",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "828dfa3424cf5f4058924528412136b88b7304ff"
+      },
+      "technical_metadata": {
+        "bytes": 463966,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-074",
+      "parent_record_refs": [
+        "MK-CP-005"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/components/two-string-structure.png",
+      "original_filename": "两弦构造.png",
+      "legacy_path": "img/两弦构造.png",
+      "legacy_migration_id": "S8-MEDIA-076",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "797d9be0a003d44064b0f1fa005ec4ed82e665da"
+      },
+      "technical_metadata": {
+        "bytes": 193011,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-075",
+      "parent_record_refs": [],
+      "media_type": "image",
+      "file_path": "assets/images/components/trapezoid-soundbox.png",
+      "original_filename": "梯形琴箱.png",
+      "legacy_path": "img/梯形琴箱.png",
+      "legacy_migration_id": "S8-MEDIA-077",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "6ef3b2c7481a4f309de59d8068dcd861b36b5972"
+      },
+      "technical_metadata": {
+        "bytes": 366674,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "media_id": "MK-D-076",
+      "parent_record_refs": [
+        "MK-CP-001",
+        "MK-CP-002",
+        "MK-CP-003",
+        "MK-CP-004",
+        "MK-CP-005",
+        "MK-CP-006",
+        "MK-CP-007",
+        "MK-CP-008",
+        "MK-CP-009",
+        "MK-CP-010",
+        "MK-CP-011",
+        "MK-CP-012",
+        "MK-CP-013",
+        "MK-CP-014",
+        "MK-CP-015"
+      ],
+      "media_type": "image",
+      "file_path": "assets/images/components/morin-khuur-watercolor.png",
+      "original_filename": "morin-khuur-watercolor.png",
+      "legacy_path": "img/morin-khuur-watercolor.png",
+      "legacy_migration_id": "S8-MEDIA-078",
+      "caption": null,
+      "creator": null,
+      "created_date": null,
+      "created_place": null,
+      "provider": null,
+      "rights_status": "版权待确认",
+      "license": null,
+      "access_level": "暂不公开",
+      "source_ref": null,
+      "checksum": {
+        "algorithm": "git-sha1",
+        "value": "24cbc81079687eaebf900bb4ed8379f822dcefba"
+      },
+      "technical_metadata": {
+        "bytes": 999312,
+        "extension": "png"
+      },
+      "derivatives": [],
+      "review_status": "待核实",
+      "uncertainty_note": "媒体来源、作者、形成时间、许可和公开范围均待核实；文件当前仍由原数字展览使用。",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    }
+  ],
+  "notes": [
+    "媒体编号与第8步迁移后路径一一对应。",
+    "路径仍供原数字展览使用；数据库公开状态不等同于现有展览的技术可访问状态。"
+  ]
+}

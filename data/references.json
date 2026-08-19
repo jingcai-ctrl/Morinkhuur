@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "dataset": "references",
+  "dataset_version": "0.1.0-draft",
+  "status": "draft",
+  "generated_at": "2026-08-19",
+  "source_scope": [
+    "history.html"
+  ],
+  "records": [
+    {
+      "source_id": "MK-R-001",
+      "source_type": "文献",
+      "title": "《元史》",
+      "creator": null,
+      "publisher_or_holder": null,
+      "publication_date": null,
+      "identifier": null,
+      "url": null,
+      "accessed_at": null,
+      "citation_text": null,
+      "credibility_level": null,
+      "verification_note": "名称来自 history.html 页脚的通用来源文字；尚缺版本或稳定网址，且未与具体陈述建立对应关系。",
+      "related_record_refs": [],
+      "rights_status": "版权待确认",
+      "access_level": "暂不公开",
+      "review_status": "待核实",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "source_id": "MK-R-002",
+      "source_type": "文献",
+      "title": "《清史稿》",
+      "creator": null,
+      "publisher_or_holder": null,
+      "publication_date": null,
+      "identifier": null,
+      "url": null,
+      "accessed_at": null,
+      "citation_text": null,
+      "credibility_level": null,
+      "verification_note": "名称来自 history.html 页脚的通用来源文字；尚缺版本或稳定网址，且未与具体陈述建立对应关系。",
+      "related_record_refs": [],
+      "rights_status": "版权待确认",
+      "access_level": "暂不公开",
+      "review_status": "待核实",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    },
+    {
+      "source_id": "MK-R-003",
+      "source_type": "机构网页",
+      "title": "中国非物质文化遗产网",
+      "creator": null,
+      "publisher_or_holder": null,
+      "publication_date": null,
+      "identifier": null,
+      "url": null,
+      "accessed_at": null,
+      "citation_text": null,
+      "credibility_level": null,
+      "verification_note": "名称来自 history.html 页脚的通用来源文字；尚缺版本或稳定网址，且未与具体陈述建立对应关系。",
+      "related_record_refs": [],
+      "rights_status": "版权待确认",
+      "access_level": "暂不公开",
+      "review_status": "待核实",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "record_version": 1
+    }
+  ],
+  "notes": [
+    "仅登记网页明确点名的三个通用来源候选项。",
+    "尚未建立陈述—来源对应关系，因此资源记录的 source_refs 保持为空。"
+  ]
+}
