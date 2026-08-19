@@ -17,7 +17,7 @@ window.addEventListener('DOMContentLoaded', function() {
 
             var audio = new Audio();
             audio.preload = 'auto';
-            audio.src = 'assets/performance/sounds/' + soundName + '.mp3';
+            audio.src = 'assets/audio/performance/' + soundName + '.mp3';
 
             audio.addEventListener('canplay', function() {
                 audio.play().then(function() {

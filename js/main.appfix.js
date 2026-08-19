@@ -396,11 +396,11 @@ function initHistoryModule() {
     var overviewBtn = document.getElementById('historyOverviewBtn');
 
     var slideImages = [
-        'assets/history/history-xiqin.jpeg',
-        'assets/history/history-huobusi.jpeg',
-        'assets/history/history-mawei.jpeg',
-        'assets/history/history-chaoer.jpeg',
-        'assets/history/history-modern.jpeg'
+        'assets/images/history/history-xiqin.jpeg',
+        'assets/images/history/history-huobisi.jpeg',
+        'assets/images/history/history-mawei-huqin.jpeg',
+        'assets/images/history/history-chaoer.jpeg',
+        'assets/images/history/history-modern.jpeg'
     ];
 
     var slideTitles = [
@@ -529,7 +529,7 @@ function initHistoryModule() {
     if (overviewBtn) {
         overviewBtn.addEventListener('click', function() {
             if (lightbox && lightboxImg) {
-                lightboxImg.src = 'assets/history/history-slide1.png';
+                lightboxImg.src = 'assets/images/history/history-overview.png';
                 lightbox.classList.add('active');
                 document.body.style.overflow = 'hidden';
             }
@@ -1417,7 +1417,7 @@ function initPerformanceFingering() {
     const positions = {
         '1': {
             title: '第一把位（A调）',
-            image: 'assets/performance/fingering-main.jpg',
+            image: 'assets/images/performance/fingering-main.jpg',
             desc: '基础把位，最常用于低音区与初学阶段，强调手型稳定、空弦控制与左右手配合。',
             notationA: 'A弦：A（空弦）→ B（1）→ C#（2）→ D（3）→ E（4）',
             notationD: 'D弦：D（空弦）→ E（1）→ F#（2）→ G（3）→ A（4）',
@@ -1436,7 +1436,7 @@ function initPerformanceFingering() {
         },
         '2': {
             title: '第二把位（G调）',
-            image: 'assets/performance/fingering-main.jpg',
+            image: 'assets/images/performance/fingering-main.jpg',
             desc: '中音区常用把位，音位整体上移，更适合旋律展开与句法连接。',
             notationA: 'A弦：G（1）→ A（2）→ B（3）→ C（4）→ D（空弦）',
             notationD: 'D弦：C（1）→ D（2）→ E（3）→ F#（4）→ G（空弦）',
@@ -1455,7 +1455,7 @@ function initPerformanceFingering() {
         },
         '3': {
             title: '第三把位（D调）',
-            image: 'assets/performance/fingering-main.jpg',
+            image: 'assets/images/performance/fingering-main.jpg',
             desc: '高音区转换把位，适合抒情旋律和高音延展，需要更稳定的指尖控制。',
             notationA: 'A弦：D（1）→ E（2）→ F#（3）→ G（4）→ A（空弦对照）',
             notationD: 'D弦：G（1）→ A（2）→ B（3）→ C#（4）→ D（空弦对照）',
