@@ -21,7 +21,7 @@
       "西里尔蒙古文"
     ],
     "missing_information_policy": "保留空值或明确标记为待补充、待核实、版权待确认",
-    "current_step": 9
+    "current_step": 10
   },
   "skill_lookup": {
     "name": "morinkhuur-database-roadmap",
@@ -384,7 +384,8 @@
     {
       "id": 9,
       "title": "将现有内容转换为JSON",
-      "status": "pending",
+      "status": "completed",
+      "completed_on": "2026-08-19",
       "modifies_code": "是",
       "objective": "把HTML中的文字和媒体关系转换为独立结构化记录",
       "target_files": [
@@ -405,7 +406,47 @@
         "文献通过文献编号与资源记录关联",
         "缺失信息保留空值，不随意推测"
       ],
-      "deliverables": ["第一批JSON数据", "数据格式检查结果", "原网页内容与数据记录对应表"]
+      "deliverables": ["第一批JSON数据", "数据格式检查结果", "原网页内容与数据记录对应表"],
+      "completion_record": {
+        "branch": "database-rebuild",
+        "implementation_commit": "3139ebb1e5d5c3a5c37cd2e27b73f4c3962963bb",
+        "data_version": "0.1.0-draft",
+        "document": "docs/html-json-correspondence.md",
+        "data_files": [
+          "data/instruments.json",
+          "data/components.json",
+          "data/crafts.json",
+          "data/materials-tools.json",
+          "data/people.json",
+          "data/music.json",
+          "data/patterns.json",
+          "data/history.json",
+          "data/scenes.json",
+          "data/references.json",
+          "data/media.json",
+          "data/id-register.json"
+        ],
+        "record_counts": {
+          "resource_records": 104,
+          "source_candidates": 3,
+          "media_records": 76,
+          "registered_ids": 183
+        },
+        "verification_results": {
+          "roadmap_target_json_files_created": "10/10",
+          "supplementary_json_files_created": 2,
+          "json_files_valid": "12/12",
+          "unique_ids": 183,
+          "remote_media_paths_verified": "76/76",
+          "media_checksum_matches": "76/76",
+          "dangling_media_or_source_references": 0,
+          "group_person_labels_deferred": 2,
+          "scene_topics_deferred": 5,
+          "existing_exhibition_files_changed": false,
+          "facts_rights_or_mongolian_inferred": false,
+          "step_10_started": false
+        }
+      }
     },
     {
       "id": 10,
@@ -540,6 +581,12 @@
       "action": "completed_step_8",
       "step": 8,
       "note": "已重组现有图片与音频目录，统一英文文件名，归档未被页面加载的旧版CSS和JavaScript，移除两条内容完全相同的重复图片路径，并完成媒体映射与整站引用验证；未分配数据库编号，未进入第9步。"
+    },
+    {
+      "date": "2026-08-19",
+      "action": "completed_step_9",
+      "step": 9,
+      "note": "已将可明确对应的现有内容转换为首批JSON草稿，建立104条资源记录、3条来源候选、76条媒体记录和183项编号登记；群体人物标签与缺少采集信息的场景主题保持暂缓，不推测缺失事实，未进入第10步。"
     }
   ]
 }
